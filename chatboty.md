@@ -35,6 +35,11 @@ przykladowe rozmowy z chatbotem:
 ![alt text](image.png)
 ![alt text](image-1.png)
 # Raport:
- Po szczegolowych rozmowach i analizie, mozna latwo zauwazyc roznice meidzy obydwoma typami chatbotow:
- Imitujacy czlowieka jest bardziej elastyczny, potrafi znacznie wiecej odpowiedziec w przeciwienstwie do serwisowego chatbota, ktory nastawiony jest stricte na pomoc klientom w scisle okreslomych tematach, bot ten nie opoiwe zartu nie gubi watku i nei zmienia tematu rozmowy,
+
+Po szczegółowych rozmowach i analizie, zauważono wyraźne różnice pomiędzy obydwoma typami chatbotów:
+
+Boty imitujące człowieka wykazują większą elastyczność, potrafią odpowiadać na znacznie szerszy zakres pytań w porównaniu z serwisowymi chatbotami, które skupiają się głównie na udzielaniu pomocy w ściśle określonych obszarach. Boty serwisowe, niezależnie od żartu czy zmiany tematu, koncentrują się wyłącznie na udzielaniu pomocy, co sprawia, że rozmowa pozostaje skoncentrowana na temacie. Podczas interakcji z botem serwisowym, użytkownik może korzystać z gotowych podpowiedzi, co ułatwia komunikację i szybkie rozwiązanie problemu.
+
+Boty imitujące człowieka, takie jak Cleverbot, mogą mieć trudności z utrzymaniem ciągłości wątku oraz odpowiedzi na wcześniejsze pytania, jednak zazwyczaj radzą sobie lepiej niż boty serwisowe. Żarty w przypadku tych botów są często trafne i zabawne, co sprawia, że rozmowa przebiega płynniej.
 ![alt text](image-2.png)
+- podpunkt 4:
