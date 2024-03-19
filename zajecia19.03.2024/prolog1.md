@@ -10,4 +10,4 @@
 ![alt text](image-4.png)
 - F x to szwagier/szwagierka y.
 ![alt text](image-5.png)
-- G 
+- G x jest rodzenstwem przyrodnim y i na odwrot
