@@ -11,3 +11,6 @@
 - F x to szwagier/szwagierka y.
 ![alt text](image-5.png)
 - G x jest rodzenstwem przyrodnim y i na odwrot
+![alt text](image-6.png)
+//tutaj mozemy zrohic jak chcemy to nei musi byc pokrewienstwo ani nic
+//zmienne sa tytlko w tych regulach ale nie w bazie zmiennych
