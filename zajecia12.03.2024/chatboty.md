@@ -1,31 +1,48 @@
-## Zadanie1
-- wypełnianie deklaracji PIT,
-- streszczanie tekstu,
-- tłumaczenie tekstu,
-- klasyfikacja tekstu do kategorii tematycznych,
-- odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim),
-- układanie rozkładu jazdy transportu miejskiego,
-- programowanie (pisanie programów komputerowych),
-- „programowanie” kanałów telewizyjnych,- testowanie oprogramowania,
-- komponowanie muzyki,
-- rozwiązywanie układów równań,
-- symboliczne obliczanie pochodnych funkcji,
-- symboliczne całkowanie fun
+## Zadanie 1:
 
-##  Zadanie 2
+- **Wypełnianie deklaracji PIT:** Człowiek najlepiej zna swoje zarobki, dochody i zrobi to w najlepszy sposób.
 
-- streszczanie tekstu
-- tłumaczenie tekstu
-- odpowiadanie na proste pytania zadawane w języku naturalnym
-- rozwiązywanie układów równań
-- symboliczne obliczanie pochodnych
-- symboliczne całkowanie
+- **Streszczanie tekstu:** Streszczenie tekstu nie może być tylko mechanicznym skróceniem i zawarciem najistotniejszych informacji. Musi przekazywać cały sens w najlepszy sposób.
 
-## Zadanie 3
+- **Tłumaczenie tekstu:** Są języki, które są mało powszechne albo trudne w interpretacji i zależą od kontekstu. Tylko człowiek może je prawidłowo przetłumaczyć, nie zmieniając sensu tekstu.
 
-- rozmowa towarzyska 
-- odpowiadanie na pytania klientów w telefonicznej infolinii
-- odpowiadanie na pytania klientów w internetowej infolinii
+- **Klasyfikacja tekstu do kategorii tematycznych:** Często taka klasyfikacja nie jest jednoznaczna.
+
+- **Układanie rozkładu jazdy transportu miejskiego:** Bardzo istotna rzecz, która wymaga wielu czynników (a nie tylko statystyk), które bot może ominąć.
+
+- **Programowanie (pisanie programów komputerowych):** Proste kody tak, rozbudowane nie. Myśl i zamysł zawsze muszą leżeć po stronie człowieka.
+
+- **Komponowanie muzyki:** Tylko dla człowieka. Najprawdziwsza melodia może być tylko skomponowana i zagrana na prawdziwych instrumentach i przez ludzi.
+
+- **Rozwiązywanie układów równań:** To zadanie dla człowieka, aby rozwijał swój intelekt. Często boty się mylą.
+
+- **Symboliczne obliczanie pochodnych funkcji:** To zadanie dla człowieka, aby rozwijał swój intelekt. Często boty się mylą.
+
+- **Symboliczne całkowanie funkcji:** To zadanie dla człowieka, aby rozwijał swój intelekt. Często boty się mylą.
+
+- **Kierowanie samochodem:** Nie można w 100% zaufać maszynie. Zdarzają się przypadki, kiedy samochód nie zachowuje się tak, jak powinien. Często też pojawiają się niespodziewane sytuacje, które często wymagają nieoczywistych reakcji.
+
+## Zadanie 2:
+
+- **Streszczanie tekstu:** Jeżeli tekst jest prosty i nie jest nacechowany wieloma emocjami lub ukrytym przesłaniem, to tak.
+
+- **Tłumaczenie tekstu:** Do popularnych i prostych języków.
+
+- **Odpowiadanie na proste pytania zadawane w języku naturalnym:**
+
+- **Rozwiązywanie układów równań:** Z tym, że trzeba kontrolować, czy nie są popełniane błędy.
+
+- **Symboliczne obliczanie pochodnych:** Trzeba kontrolować, czy nie ma błędów.
+
+- **Symboliczne całkowanie:** Trzeba kontrolować, czy nie ma błędów.
+
+## Zadanie 3:
+
+- **Rozmowa towarzyska:** Proste i żartobliwe rozmowy są do zrealizowania.
+
+- **Odpowiadanie na pytania klientów w telefonicznej infolinii:** Jeżeli potrzebna jest prosta i niezłożona odpowiedź, pomoc jest możliwa poprzez systemy sztucznej inteligencji.
+
+- **Odpowiadanie na pytania klientów w internetowej infolinii:** Jeżeli potrzebna jest prosta i niezłożona odpowiedź, pomoc jest możliwa poprzez systemy sztucznej inteligencji.
 
 ## Zadanie 4
 
