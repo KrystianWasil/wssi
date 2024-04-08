@@ -1,28 +1,9 @@
-- A) x jest rodzenstwem y i na odwrot.
-![alt text](image.png)
-- B) x jest kuzynem y i na odwrot.
-![alt text](image-1.png)
-- C) to są dziadkowie tego samego wnuka.
-![alt text](image-2.png)
-- D) y to przybrany rodzic x, x jest przybranym dzieckiem y.
-![alt text](image-7.png)
-- E) x to przybrane rodzenstwo y i y to przybrane rodzenstwo x.
-![alt text](image-4.png)
-- F) x to szwagier/szwagierka y.
-![alt text](image-5.png)
-- G) x jest wspolnym znajomym y i na odwrot
-![alt text](image-6.png)
-
-
-***program:***
-
 % Student exercise profile
 :- set_prolog_flag(occurs_check, error).        % disallow cyclic terms
 :- set_prolog_stack(global, limit(8 000 000)).  % limit term space (8Mb)
 :- set_prolog_stack(local,  limit(2 000 000)).  % limit environment space
 
 % Your program goes here
-%baza
 rodzic(krzysztof,krystian). %Pierwsze jest rodzicem drugiego
 rodzic(beata,krystian).
 rodzic(krzysztof,wiktor).
@@ -42,7 +23,7 @@ rodzic(grzegorz,dawid).
 znajomy(dawid,kolega).
 znajomy(kolega, pawel).
 znajomy(pawel,dawid).
-%reguly:
+
 
 rodzenstwo(X, Y) :-
     rodzic(Z, X),  % Z jest rodzicem X
